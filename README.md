@@ -15,7 +15,7 @@ This Android Emulator Detector checks for:
 
 ## Usage
 
-1. Copy the `EmulatorDetector.java` file into your project.
+1. Copy the `emucheck.java` file into your project.
 2. Use the `isEmulator(Context)` function in your code to check if the device is an emulator.
 
 ```java
